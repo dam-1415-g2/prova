@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 sa liat
 MAXI
 >>>HOLA
 =======
+=======
+jsdfosjfskal
+>>>>>>> origin/master
 <<<<<<< HEAD
 <<<<<<< HEAD
 ALBERT
@@ -20,4 +24,11 @@ ALBERTQUER
 >>>>>>> origin/Canvis
 =======
 >>>>>>> ed089e6cac81e01abe3a3bed68e107401ae6196f
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+=======
+MAXI
+>>>HOLA
+>>>>>>> origin/Canvis
 >>>>>>> origin/master
