@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALBERT
 QUER
 =======
@@ -16,3 +17,7 @@ ALBERTQUER
 >>>>>>> origin/Canvis
 =======
 >>>>>>> ed089e6cac81e01abe3a3bed68e107401ae6196f
+=======
+MAXI
+>>>HOLA
+>>>>>>> origin/Canvis
