@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ALBERT
 QUER
 =======
@@ -13,3 +14,5 @@ ALBERT
 ALBERTQUER
 >>>>>>> origin/master
 >>>>>>> origin/Canvis
+=======
+>>>>>>> ed089e6cac81e01abe3a3bed68e107401ae6196f
