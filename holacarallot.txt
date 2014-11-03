@@ -1,11 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+jsdfosjfskal
+=======
+>>>>>>> 190b26b427ce3b862d61354be4b2da769fbd7579
 sa liat
 MAXI
 >>>HOLA
 =======
+<<<<<<< HEAD
 =======
 jsdfosjfskal
 >>>>>>> origin/master
+=======
+>>>>>>> 417403e99cdd42ac40ab09694b736a4c87808e65
+>>>>>>> 190b26b427ce3b862d61354be4b2da769fbd7579
 <<<<<<< HEAD
 <<<<<<< HEAD
 ALBERT
@@ -25,10 +34,17 @@ ALBERTQUER
 =======
 >>>>>>> ed089e6cac81e01abe3a3bed68e107401ae6196f
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> origin/master
 =======
+=======
+>>>>>>> 190b26b427ce3b862d61354be4b2da769fbd7579
 =======
 MAXI
 >>>HOLA
 >>>>>>> origin/Canvis
 >>>>>>> origin/master
+<<<<<<< HEAD
+=======
+>>>>>>> 417403e99cdd42ac40ab09694b736a4c87808e65
+>>>>>>> 190b26b427ce3b862d61354be4b2da769fbd7579
