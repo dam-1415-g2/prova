@@ -1,2 +1,23 @@
+<<<<<<< HEAD
 MAXI
 >>>HOLA
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+ALBERT
+QUER
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+MAXI
+>>>>>>> HOLA
+=======
+ALBERT
+>>>>>>> 98ed49567d88d2dd8c394b80b4a705f4fc8f668c
+=======
+ALBERTQUER
+>>>>>>> origin/master
+>>>>>>> origin/Canvis
+=======
+>>>>>>> ed089e6cac81e01abe3a3bed68e107401ae6196f
+>>>>>>> origin/master
